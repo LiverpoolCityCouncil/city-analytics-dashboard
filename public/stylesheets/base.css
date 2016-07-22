@@ -160,7 +160,7 @@ h2 {
     height: 62px;
     overflow: hidden;}
 
-    .top-bar .inner h2{position:relative;left:100px;top:0px;}
+    .top-bar .inner h2{position:absolute;left:250px;top:20px;}
 .box {
   position: relative;
   height: calc(100% - 210px);
